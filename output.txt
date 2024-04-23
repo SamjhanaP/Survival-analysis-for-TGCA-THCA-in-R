@@ -1,0 +1,5 @@
+                         N Observed  Expected    (O-E)^2/E       (O-E)^2/V
+strata=HIGH 15           1               0.421           0.796                1.38
+strata=LOW  15           0              0.579           0.579                1.37
+
+ Chisq= 1.4  on 1 degrees of freedom, p= 0.2 
